@@ -1,0 +1,3 @@
+
+
+object MainDefaultCatsWorkStealingPool extends ParallelRunner

@@ -1,0 +1,6 @@
+-Xss8M
+-Xmx8G
+--add-opens=java.base/jdk.internal.misc=ALL-UNNAMED
+--add-opens=java.base/java.util=ALL-UNNAMED
+--add-opens=java.base/java.lang=ALL-UNNAMED
+-Dlmcoursier.internal.shaded.coursier.ttl=0s
